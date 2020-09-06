@@ -1,1 +1,1 @@
-# this is a messenger-clone project build for the purpose of learning 
+# This is a messenger-clone project build for the purpose of learning REACT
